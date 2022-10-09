@@ -196,7 +196,8 @@ http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/51387
 http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/51390
 #EXTINF:-1,PK: Waseb TV
 http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/51389
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="PAK ",PTV Sports
+http://watchindia.net:8880/live/vvv/vvv/2325.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="" group-title="PAK ",Peace TV ENGLISH
 http://watchindia.net:8880/live/vvv/vvv/1063.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK: Peace TV Urdu" tvg-logo="https://img-cdn.curl.pk/chimg/1842703193.png" group-title="PK | Pakistan TV",PK: Peace TV Urdu
