@@ -1,103 +1,13 @@
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="PAK ",PTV Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="Sports",PTV Sports
 http://watchindia.net:8880/live/vvv/vvv/2325.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A SPORTS HD" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",A SPORTS HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="Sports",PTV Sports HD
+http://221.120.204.3/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A SPORTS HD" tvg-logo="" group-title="Sports",A SPORTS HD
 http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Plus" tvg-logo="" group-title="PAK ",A Plus
-http://watchindia.net:8880/live/vvv/vvv/1021.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj News" tvg-logo="" group-title="PAK ",Aaj News
-http://watchindia.net:8880/live/vvv/vvv/1051.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abbtakk News" tvg-logo="" group-title="PAK ",Abbtakk News
-http://watchindia.net:8880/live/vvv/vvv/1062.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="App News" tvg-logo="" group-title="PAK ",App News
-http://watchindia.net:8880/live/vvv/vvv/1058.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aruj Tv" tvg-logo="" group-title="PAK ",Aruj Tv
-http://watchindia.net:8880/live/vvv/vvv/1035.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Digital" tvg-logo="" group-title="PAK ",Ary Digital
-http://watchindia.net:8880/live/vvv/vvv/1018.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary News" tvg-logo="" group-title="PAK ",Ary News
-http://watchindia.net:8880/live/vvv/vvv/1042.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary World UK" tvg-logo="" group-title="PAK ",Ary World UK
-http://watchindia.net:8880/live/vvv/vvv/1041.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Zauk" tvg-logo="" group-title="PAK ",Ary Zauk
-http://watchindia.net:8880/live/vvv/vvv/1026.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Zindagi" tvg-logo="" group-title="PAK ",Ary Zindagi
-http://watchindia.net:8880/live/vvv/vvv/1025.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bol Entertainment" tvg-logo="" group-title="PAK ",Bol Entertainment
-http://watchindia.net:8880/live/vvv/vvv/1030.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bol Tv News" tvg-logo="" group-title="PAK ",Bol Tv News
-http://watchindia.net:8880/live/vvv/vvv/1052.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital Tv News" tvg-logo="" group-title="PAK ",Capital Tv News
-http://watchindia.net:8880/live/vvv/vvv/1049.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 44 UK" tvg-logo="" group-title="PAK ",Channel 44 UK
-http://watchindia.net:8880/live/vvv/vvv/1040.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dawn News" tvg-logo="" group-title="PAK ",Dawn News
-http://watchindia.net:8880/live/vvv/vvv/1044.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duniya News UK" tvg-logo="" group-title="PAK ",Duniya News UK
-http://watchindia.net:8880/live/vvv/vvv/1038.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dunya News" tvg-logo="" group-title="PAK ",Dunya News
-http://watchindia.net:8880/live/vvv/vvv/1061.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express Entertainment" tvg-logo="" group-title="PAK ",Express Entertainment
-http://watchindia.net:8880/live/vvv/vvv/1029.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express News" tvg-logo="" group-title="PAK ",Express News
-http://watchindia.net:8880/live/vvv/vvv/1047.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Entertainment" tvg-logo="" group-title="PAK ",Geo Entertainment
-http://watchindia.net:8880/live/vvv/vvv/2267.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Kahani" tvg-logo="" group-title="PAK ",Geo Kahani
-http://watchindia.net:8880/live/vvv/vvv/2268.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo News UK" tvg-logo="" group-title="PAK ",Geo News UK
-http://watchindia.net:8880/live/vvv/vvv/1037.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Super" tvg-logo="" group-title="PAK ",Geo Super
-http://watchindia.net:8880/live/vvv/vvv/1016.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Tez" tvg-logo="" group-title="PAK ",Geo Tez
-http://watchindia.net:8880/live/vvv/vvv/1043.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gnn News" tvg-logo="" group-title="PAK ",Gnn News
-http://watchindia.net:8880/live/vvv/vvv/1045.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Masala UK" tvg-logo="" group-title="PAK ",Hum Masala UK
-http://watchindia.net:8880/live/vvv/vvv/1023.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Sitaray" tvg-logo="" group-title="PAK ",Hum Sitaray
-http://watchindia.net:8880/live/vvv/vvv/1024.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum TV HD" tvg-logo="" group-title="PAK ",Hum TV HD
-http://watchindia.net:8880/live/vvv/vvv/1022.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Tv UK" tvg-logo="" group-title="PAK ",Hum Tv UK
-http://watchindia.net:8880/live/vvv/vvv/1019.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kay 2" tvg-logo="" group-title="PAK ",Kay 2
-http://watchindia.net:8880/live/vvv/vvv/1027.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khyber News" tvg-logo="" group-title="PAK ",Khyber News
-http://watchindia.net:8880/live/vvv/vvv/1054.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khyber Tv" tvg-logo="" group-title="PAK ",Khyber Tv
-http://watchindia.net:8880/live/vvv/vvv/1034.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lahore News" tvg-logo="" group-title="PAK ",Lahore News
-http://watchindia.net:8880/live/vvv/vvv/1046.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minhaj Tv" tvg-logo="" group-title="PAK ",Minhaj Tv
-http://watchindia.net:8880/live/vvv/vvv/1056.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV News UK" tvg-logo="" group-title="PAK ",NDTV News UK
-http://watchindia.net:8880/live/vvv/vvv/1055.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neo News HD" tvg-logo="" group-title="PAK ",Neo News HD
-http://watchindia.net:8880/live/vvv/vvv/1057.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News One" tvg-logo="" group-title="PAK ",News One
-http://watchindia.net:8880/live/vvv/vvv/1017.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pashto 1" tvg-logo="" group-title="PAK ",Pashto 1
-http://watchindia.net:8880/live/vvv/vvv/1036.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="" group-title="PAK ",Peace TV
-http://watchindia.net:8880/live/vvv/vvv/1063.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Global UK" tvg-logo="" group-title="PAK ",PTV Global UK
-http://watchindia.net:8880/live/vvv/vvv/1032.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Home" tvg-logo="" group-title="PAK ",PTV Home
-http://watchindia.net:8880/live/vvv/vvv/1033.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV News UK" tvg-logo="" group-title="PAK ",PTV News UK
-http://watchindia.net:8880/live/vvv/vvv/1053.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public News" tvg-logo="" group-title="PAK ",Public News
-http://watchindia.net:8880/live/vvv/vvv/1059.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Samaa News UK" tvg-logo="" group-title="PAK ",Samaa News UK
-http://watchindia.net:8880/live/vvv/vvv/1039.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stage Darama" tvg-logo="" group-title="PAK ",Stage Darama
-http://watchindia.net:8880/live/vvv/vvv/1031.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv One" tvg-logo="" group-title="PAK ",Tv One
-http://watchindia.net:8880/live/vvv/vvv/1028.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urdu 1" tvg-logo="" group-title="PAK ",Urdu 1
-http://watchindia.net:8880/live/vvv/vvv/1020.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Waqt News" tvg-logo="" group-title="PAK ",Waqt News
-http://watchindia.net:8880/live/vvv/vvv/1048.ts
-# ///////////////////////////////////////////
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN SPORTS HD" tvg-logo="" group-title="Sports",TEN SPORTS HD
+http://221.120.204.3/TEN-SPORTS-LOCKLEeee/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atc SPORTS" tvg-logo="" group-title="Sports",ATC SPORTS HD
+https://atc.hopto.org/AFG-ariana_tv/index.m3u8
+
 
 
